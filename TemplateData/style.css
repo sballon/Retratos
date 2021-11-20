@@ -55,7 +55,8 @@ body {
 }
 
 #unity-footer {
-    position: relative
+    width: 100%;
+    height: 5vh
 }
 
 .unity-mobile #unity-footer {
